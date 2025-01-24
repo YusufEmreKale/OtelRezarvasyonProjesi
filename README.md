@@ -19,7 +19,7 @@ Bu ekran her türlü işlemi yaptığımız ekran. Yönetici burada müşteri i�
 
 # Şifre Yenileme Formu
 ![Ekran görüntüsü 2025-01-24 141436](https://github.com/user-attachments/assets/ce7b1cbf-a54a-4f97-bbf5-b055cbdc60b7)
-Yönetici şifresini unuttuğu takdirde bu form üzerinden doğru TC kimlik numarasını girerek yeni şifresini alabilir.
+ Yönetici şifresini unuttuğu takdirde bu form üzerinden doğru TC kimlik numarasını girerek yeni şifresini alabilir.
 
 
 
