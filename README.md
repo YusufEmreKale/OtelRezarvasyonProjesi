@@ -11,12 +11,15 @@
 
 # Yönetici Giriş Formu  
 ![Ekran görüntüsü 2025-01-24 141416](https://github.com/user-attachments/assets/be730441-44aa-4ad6-9e85-a54673c3d35f)
+Yönetici sisteme giriş yapmak istediğinde bu formu kullanarak doğru tc kimlik numarası ve doğru şifreyi girerek sisteme giriş yapabilir. Şifresini unutulması halinde şifremi unuttum linkine tıklayarak şifre yenileme ekranına geçiş yapar.
 
 # Ana Ekran (İşlem) Formu
 ![Ekran görüntüsü 2025-01-24 141428](https://github.com/user-attachments/assets/c96efec6-5f00-424b-a0ac-025fa6be9af7)
+Bu ekran her türlü işlemi yaptığımız ekran. Yönetici burada müşteri işlemleri, oda işlemleri ve rezervasyon işlemlerini yapabiliyor.
 
 # Şifre Yenileme Formu
 ![Ekran görüntüsü 2025-01-24 141436](https://github.com/user-attachments/assets/ce7b1cbf-a54a-4f97-bbf5-b055cbdc60b7)
+Yönetici şifresini unuttuğu takdirde bu form üzerinden doğru TC kimlik numarasını girerek yeni şifresini alabilir.
 
 
 
